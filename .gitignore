@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# gitにpushする際に無視されるファイルで、デフォルトで記述されているため、pushする必要がない
 
 # dependencies
 /node_modules
